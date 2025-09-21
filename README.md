@@ -32,6 +32,7 @@
 #include <locale.h>
 #include <stdio.h>
 #include <stdlib.h>
+
 int main() 
 {
     setlocale(LC_ALL, "RUS");
@@ -39,6 +40,7 @@ int main()
     int B = 2000;
     int C = 300;
     int D = 3000;
+    
     printf("цена перчаток: %dp\n", A);
     printf("цена портфеля: %dp\n", B);
     printf("цена галстука: %dp\n", C);
