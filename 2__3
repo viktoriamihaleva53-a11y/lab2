@@ -1,0 +1,14 @@
+#include <locale.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    setlocale(LC_ALL, "RUS");
+
+    printf("Дано:\n");
+    printf("\t%10d\n", 3);
+    printf("\t%10d\n", 33);
+    printf("Ответ: ____________\n");
+    printf("\t%+10.7f\n", 3.0 / 33);
+
+}
