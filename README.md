@@ -23,7 +23,8 @@
 6. **Конец**
 
 ### Блок-схема
-file:///C:/Users/79036/Downloads/lab_2_schema.png.drawio.html
+<img width="916" height="2764" alt="image" src="https://github.com/user-attachments/assets/f6a42ee1-a7ab-4fb4-affd-a3bb40371265" />
+
 
 ## 2. Реализация программы
 
