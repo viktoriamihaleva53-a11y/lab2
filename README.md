@@ -36,7 +36,9 @@
 int main() 
 
 {
+    
     setlocale(LC_ALL, "RUS");
+    
     int A = 400;
     int B = 2000;
     int C = 300;
