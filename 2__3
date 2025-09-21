@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int main() 
+{
     setlocale(LC_ALL, "RUS");
-
     printf("Дано:\n");
     printf("\t%10d\n", 3);
     printf("\t%10d\n", 33);
