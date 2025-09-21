@@ -34,6 +34,7 @@
 #include <stdlib.h>
 
 int main() 
+
 {
     setlocale(LC_ALL, "RUS");
     int A = 400;
